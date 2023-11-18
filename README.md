@@ -8,9 +8,14 @@ This script is a lighter version of the qb-territories, I isolated the territori
 - Config blips for each zone
 - GangName on Blips
 
-# How to add zone ?
+# Preview
 
-to add zone you have to go in shared/zones.lua line 7 and add your zone like this =
+![terri2](https://github.com/SLESGT/sles-territories/assets/151367115/bee3675a-7488-4fd4-8679-96cb8ee4521d)
+
+
+# How to add zones [vagos, ballas, yakuza, bloods, families]
+
+to add zone you have to go in shared/zones.lua and add your zone like this =
 ```
 [1] = {
             centre = vector3(37.38, -1880.71, 22.34),
